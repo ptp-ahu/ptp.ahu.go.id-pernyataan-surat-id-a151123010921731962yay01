@@ -1,1 +1,6 @@
-# ptp.ahu.go.id-pernyataan-surat-id-a151123010921731962yay01
+# Surat Pernyataan - Perseroan Perorangan
+
+Ini adalah project sederhana untuk menampilkan **Surat Pernyataan Pendirian Perseroan Perorangan** dalam bentuk halaman web statis.  
+File utama adalah `index.html`.
+
+## 📂 Struktur Folder
